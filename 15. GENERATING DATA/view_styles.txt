@@ -1,0 +1,4 @@
+RUN IN TERMINAL
+
+import matplotlib.pyplot as plt
+plt.style.available
