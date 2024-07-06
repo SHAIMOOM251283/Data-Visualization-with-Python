@@ -14,3 +14,5 @@ This project demonstrates various data visualization techniques using Python, di
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Image
+![Visualization Screenshot](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot%202024-07-06%20003808.png)
