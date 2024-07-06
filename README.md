@@ -17,10 +17,5 @@ This project demonstrates various data visualization techniques using Python, di
 ![Screenshot 3](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot3.png)
 ![Screenshot 4](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot4.png)
 
-## Video
-<video width="640" height="480" controls>
-  <source src="https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Video.mp4" type="video/mp4">
-</video>
-
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
