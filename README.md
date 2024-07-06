@@ -11,8 +11,11 @@ This project demonstrates various data visualization techniques using Python, di
 2. **Downloading Data**: Fetching data from online sources and feeding it into a visualization package to create plots of weather data and a map of global earthquake activity.
 3. **Working with APIs**: Interacting with web APIs to retrieve and visualize data.
 
+## Images
+![Screenshot 1](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot1.png)
+![Screenshot 2](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot2.png)
+![Screenshot 3](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot3.png)
+![Screenshot 4](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot4.png)
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Image
-![Visualization Screenshot](https://github.com/SHAIMOOM251283/Data-Visualization-with-Python/blob/main/Screenshot%202024-07-06%20003808.png)
